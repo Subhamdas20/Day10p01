@@ -23,4 +23,4 @@ computation[ex2]=$expr2
 computation[ex3]=$expr3
 computation[ex4]=$expr4
 
-# echo ${computation[@]}
+echo  ${computation[@]}
