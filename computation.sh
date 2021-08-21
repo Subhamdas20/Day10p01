@@ -7,4 +7,9 @@ echo "Enter 3rd integer"
 read c;
 
 expr1=$((a+b*c))
-echo $expr1
+#echo $expr1
+expr2=$((a*b+c))
+#echo $expr2
+expr3=$((c+a/b))
+echo $expr3
+
