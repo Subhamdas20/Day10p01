@@ -6,3 +6,5 @@ read b;
 echo "Enter 3rd integer"
 read c;
 
+expr1=$((a+b*c))
+echo $expr1
